@@ -28,8 +28,10 @@ const domContainer = document.querySelector('#app')
 // Create root on selected DOM element
 const root = ReactDOM.createRoot(domContainer)
 
+const ChildComponent = React.createElement('div', {}, 'Hello Again');
+
 // Create component
-const Component = React.createElement('div', {}, 'Hello World!')
+const Component = React.createElement('div', {}, ChildComponent)
 
 // Render component at root
 root.render(Component)

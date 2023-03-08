@@ -22,6 +22,6 @@
 
 return (
     <div>
-        <Hello></Hello>
+        <Hello />
     </div>
 )
