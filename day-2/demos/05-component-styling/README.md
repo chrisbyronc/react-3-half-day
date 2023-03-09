@@ -2,7 +2,7 @@
 
 ## Inline `style` Attribute
 
-Styles can be passed to an element inline using that element's `style` attribute as an object. CSS properties are passed as camel-cased properties in that style object. 
+Styles can be passed to an element inline using that element's `style` attribute as an object. CSS properties are passed as camel-cased properties in that style object.
 
 ```js
 ...

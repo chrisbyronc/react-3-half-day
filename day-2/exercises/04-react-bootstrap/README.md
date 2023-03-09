@@ -4,7 +4,7 @@ In this exercise, students will add the React Bootstrap component library to the
 
 ## Instructions
 
-- In your React app's root directory, install the bootstrap and react-bootstrap dependecies using `npm i bootstrap react-bootstrap`.
+- In your React app's root directory, install the bootstrap and react-bootstrap dependencies using `npm i bootstrap react-bootstrap`.
 
 - To verify this step was successful, check your `package.json` file. Both packages should now be listed inside of `dependencies`.
 
