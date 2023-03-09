@@ -35,7 +35,7 @@ class SomeForm extends React.Component {
 
     handleChange = (e) => [
         // Destruture name and value from event object
-        const { name, value } = e;
+        const { name, value } = e.target;
 
         // Use name as key
         this.setState({ [name]: value })
