@@ -31,6 +31,6 @@ Sample weather object:
 
  - It should render a h1 heading that says: "Welcome to [name]'s To-Do List".
 
- - It should render a h2 heading that says: "The weather in [currentCity] is [description] with a temperature of [temperature] degrees fahrenheit.".
+ - It should render a h2 heading that says: "The weather in [currentCity] is [description] with a temperature of [temperature] degrees Fahrenheit.".
 
- - It should log each todo to the console.
+ - It should log _each_ todo to the console.

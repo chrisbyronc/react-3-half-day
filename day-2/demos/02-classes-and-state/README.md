@@ -9,7 +9,7 @@ Class components provide you with some additional features you don't get when co
 Other benefits of Class components
 
 -   **State**  - This is why functional components are called stateless. Class components can maintain their own state. State is similar to props, but it is private and fully controlled by the component. State allows React components to change their output over time in response to user actions, network responses, and anything else, without having to modify props.
--   **Lifecycle Hooks**  - Lifecycle hooks are methods provided to you through extending the React.Component class. They allow you to run code at various points in the lifecycle of the application.  [componentDidMount() ](https://reactjs.org/docs/react-component.html#componentdidmount)  and  [componentWillUnmount() ](https://reactjs.org/docs/react-component.html#componentwillunmount)  are some commonly used lifecycle hooks. Please follow the links to learn more about those and the other Lifecycle Hooks.
+-   **Lifecycle Hooks**  - Lifecycle hooks are methods provided to you through extending the React.Component class. They allow you to run code at various points in the lifecycle of the application.  [componentDidMount()](https://reactjs.org/docs/react-component.html#componentdidmount)  and  [componentWillUnmount()](https://reactjs.org/docs/react-component.html#componentwillunmount)  are some commonly used lifecycle hooks. Please follow the links to learn more about those and the other Lifecycle Hooks.
 
 Both examples below are considered the same in React. The Class component allows you to leverage state and lifecycle hooks.
 
