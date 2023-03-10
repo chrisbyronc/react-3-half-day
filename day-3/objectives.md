@@ -61,3 +61,15 @@ Todays Agenda
 9. Jeopardy App lesson
 10. CORS and SSO lesson
 11. Q&A + Survey
+
+
+What did we learn today?
+
+1. Conditional rendering
+2. More bootstrap
+3. API's a little oauth/sso
+4. array map function
+5. useState in functional components
+6. lifecycle methods
+7. handle timers
+8. keys
