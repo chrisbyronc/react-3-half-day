@@ -38,3 +38,23 @@ Agenda Today
 4. Break
 5. Controlled Components and Forms lesson and exercise
 6. Component Styling 
+
+
+What did we learn today?
+
+1. Class components
+2. setState
+3. re-render
+4. event handlers
+5. inputs and forms
+6. controlled components
+7. Lite bootstrap
+8. Passing props
+9. Displaying props and state
+10. arrow function binds method to a class
+11. event.target and all the properties, value, checked, etc.
+12. Abstracting the event handler
+13. super(props) //sometimes helps
+14. preventing default form behavior (e.preventDefault())
+15. Button, checkboxes, radio button, option select
+16. No constructor state management
