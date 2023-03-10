@@ -1,6 +1,6 @@
 # Exercise: Jeopardy Lite
 
-In this exercise, students will build a simple Jeopardy game by consuming the  [jService](http://jservice.io/)  API. 
+In this exercise, students will build a simple Jeopardy game by consuming the [jService](http://jservice.io/) API.
 
 ## Instructions
 
@@ -34,7 +34,6 @@ In this exercise, students will build a simple Jeopardy game by consuming the  [
 
 -   Update the Jeopardy component to only render the new display component.
 
--   Pass the needed props from the Jeopardy component to the display component so it has all the data it needs to display the game data and submit the user's answer.
+-   Pass the needed props from the Jeopardy component to the display component so that it has all the data it needs to display the game data and submit the user's answer.
 
 -   The other should all the display of the data through passed in props.
-    
