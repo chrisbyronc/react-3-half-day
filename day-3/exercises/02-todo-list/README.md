@@ -4,7 +4,7 @@
 
 ### Part 1: Adding and Rendering Tasks
 
-- Create a new class called `ToDoList` that contains the following state properties:
+- Create a new class component called `ToDoList` that contains the following state properties:
     - tasks: array
     - input: string
 - In the class's `render()` method, return JSX containing an `<input>` element, a `<button>` element, and an empty `<ul>` element. 
@@ -12,7 +12,7 @@
 - Create an event handler method called `handleChange()` to update the value of `input` when a user types a character.
 - Create an event handler method called `handleSubmit()` to capture the value of the `input` when the `<button>` element is clicked and add it to the `tasks` array in state.
 - Inside the `<ul>` element, write an expression to loop over the contents of `tasks` and return a `<li>` element for each task. The contents of the `<li>` element should be the value of the task.
-- Test that you are able to type a value into the `<input>` element, click the `<button>` to add that value to the tasks state property, and that the a `<li>` element is rendered in the `<ul>` for each task.
+- Test that you are able to type a value into the `<input>` element, click the `<button>` to add that value to the tasks state property, and that the `<li>` element is rendered in the `<ul>` for each task.
 
 ## Part 2: Toggling and Deleting Tasks
 
