@@ -50,7 +50,7 @@ function Navbar(props) {
 
 ## Logical AND (&&)
 
-Evaluates the first opperand and executes the second if the value of the first is `truthy`.
+Evaluates the first operand and executes the second if the value of the first is `truthy`.
 
 ``` js
 function MyComponent(props) {

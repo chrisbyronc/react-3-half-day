@@ -3,7 +3,7 @@
 ``` js
 class Clock extends React.Component {
     
-    this.state = {
+    state = {
         date: new Date()
     }
 

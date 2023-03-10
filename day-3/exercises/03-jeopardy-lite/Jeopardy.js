@@ -10,10 +10,14 @@ class Jeopardy extends Component {
 
     //get a new random question from the API and add it to the data object in state
     getNewQuestion() {
-        axios.get('http://jservice.io/api/random').then(result => {
+        axios.get('http://jservice.io/api/random')
+        .then(result => {
             this.setState({
                 question: result.data[0]
             })
+        })
+        .error(err => {
+            console.log(err)
         })
     }
 
